@@ -179,7 +179,7 @@ locomotiveAnimation();
 loadingAnimation();
 crsrAnimation();
 // makeMagnet();
-sheryAnimation();
+// sheryAnimation();
 
 
 
